@@ -24,3 +24,9 @@ Run the database migrations (**Set the database connection in .env before migrat
 Start the local development server
 
     php artisan serve
+
+Login
+
+    username: testdev
+    email: testdev@mail.test
+    password: password
